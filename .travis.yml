@@ -25,7 +25,7 @@ matrix:
           project:
             name: "pali/0xFFFF"
             description: "Build submitted via Travis CI"
-          notification_email: pali.rohar@gmail.com
+          notification_email: quty@gmail.com
           build_command: make
           branch_pattern: master
 
